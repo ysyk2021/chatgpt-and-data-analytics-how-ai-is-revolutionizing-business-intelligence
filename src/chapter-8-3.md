@@ -1,5 +1,4 @@
-Limitations and Future Research Directions
-======================================================
+
 
 In this book, we have explored the ways in which AI, specifically ChatGPT, is revolutionizing data analytics and business intelligence. We have discussed the advantages of using chatbots and AI for data analysis, as well as the limitations and challenges that must be addressed.
 
