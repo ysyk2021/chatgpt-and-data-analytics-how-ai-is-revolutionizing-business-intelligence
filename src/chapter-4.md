@@ -1,5 +1,4 @@
 
-
 In this chapter, we will introduce ChatGPT and explore its features, advantages, and case studies related to data analytics and business intelligence.
 
 What is ChatGPT?

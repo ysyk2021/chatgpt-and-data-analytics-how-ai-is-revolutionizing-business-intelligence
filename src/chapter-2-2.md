@@ -1,5 +1,4 @@
 
-
 Data analytics and business intelligence have a long history, dating back to the early days of commerce and trade. In this chapter, we will explore the history and evolution of data analytics and business intelligence.
 
 Early Days of Commerce and Trade

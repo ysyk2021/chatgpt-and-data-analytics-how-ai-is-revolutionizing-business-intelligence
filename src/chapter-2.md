@@ -1,5 +1,4 @@
 
-
 Data analytics and business intelligence are critical components of modern business operations, providing organizations with insights and recommendations to improve decision-making. In this chapter, we will explore what data analytics and business intelligence are, their history and evolution, the types of data analytics techniques used today, and the limitations and challenges associated with these fields.
 
 What is Data Analytics and Business Intelligence?

@@ -1,5 +1,4 @@
 
-
 Data analytics and business intelligence are critical components of modern business operations, providing organizations with insights and recommendations to improve decision-making. In this chapter, we will explore the types of data analytics techniques used today in data analytics and business intelligence.
 
 Descriptive Analytics
@@ -26,5 +25,4 @@ Conclusion
 ----------
 
 Understanding the different types of data analytics techniques is essential for effective data analysis and decision-making. By leveraging these techniques, organizations can gain valuable insights into their operations and make more informed decisions to drive success and growth.
-
 

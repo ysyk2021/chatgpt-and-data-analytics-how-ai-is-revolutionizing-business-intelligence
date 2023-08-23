@@ -1,5 +1,4 @@
 
-
 Chatbots and AI are increasingly being used in data analytics and business intelligence to provide faster and more accurate insights through natural language processing. In this chapter, we will explore the types of chatbots used in data analytics and business intelligence.
 
 Rule-Based Chatbots
@@ -34,5 +33,4 @@ Conclusion
 ----------
 
 The types of chatbots used in data analytics and business intelligence are varied and each has its own strengths and limitations. Organizations must carefully consider their specific needs and use cases when selecting a chatbot type, taking into account factors such as the complexity of user queries and the need for adaptability over time. With the right choice of chatbot type and careful implementation, organizations can leverage the power of AI and natural language processing to gain faster and more accurate insights from their data.
-
 

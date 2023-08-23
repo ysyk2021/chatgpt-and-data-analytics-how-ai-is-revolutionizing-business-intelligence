@@ -1,5 +1,4 @@
 
-
 ChatGPT has the potential to transform the way we approach data analytics and business intelligence, providing faster and more accurate insights through natural language processing. In this chapter, we will explore how to implement ChatGPT in data analytics and business intelligence, including training the model and managing conversations with users.
 
 Training ChatGPT for Data Analytics and Business Intelligence
