@@ -1,5 +1,4 @@
-Chapter 2: Types of Data Analytics Techniques Used Today
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Data analytics encompasses a wide range of techniques and methodologies that enable organizations to extract insights from data. In this chapter, we will explore the various types of data analytics techniques used today and how they contribute to revolutionizing business intelligence.
 

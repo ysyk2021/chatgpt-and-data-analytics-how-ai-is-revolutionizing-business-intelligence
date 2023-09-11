@@ -1,5 +1,4 @@
-Chapter 5: Personalization Techniques Used in ChatGPT for Data Analytics and Business Intelligence
-==================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the personalization techniques used in ChatGPT for data analytics and business intelligence. We will discuss how ChatGPT tailors its responses and recommendations to individual users, enabling a more personalized and user-centric experience.
 

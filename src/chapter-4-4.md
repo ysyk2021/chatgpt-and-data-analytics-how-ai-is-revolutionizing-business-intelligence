@@ -1,5 +1,4 @@
-Chapter 6: Case Studies on ChatGPT-based Data Analytics and Business Intelligence
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world case studies that showcase how ChatGPT, powered by artificial intelligence (AI), is revolutionizing data analytics and business intelligence. These examples will demonstrate the practical applications and benefits of using ChatGPT in various industries.
 

@@ -1,5 +1,4 @@
-Chapter 7: Limitations and Challenges of Data Analytics and Business Intelligence
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While data analytics and business intelligence offer tremendous opportunities for organizations, they also come with certain limitations and challenges. This chapter discusses the key challenges faced in the field and highlights the limitations that need to be addressed for optimal utilization of these technologies.
 

@@ -1,5 +1,4 @@
-Chapter 5: Training ChatGPT and Managing Conversations
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Training ChatGPT, an advanced conversational AI model, involves a combination of data selection, dataset creation, and fine-tuning techniques. Additionally, managing conversations with ChatGPT ensures smooth interactions and mitigates potential risks. In this chapter, we explore the process of training ChatGPT and discuss strategies for effective conversation management.
 

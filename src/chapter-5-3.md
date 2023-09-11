@@ -1,5 +1,4 @@
-Chapter 4: How ChatGPT Uses Data to Improve Data Analytics and Business Intelligence
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how ChatGPT uses data to improve data analytics and business intelligence. We will discuss the various data sources that ChatGPT relies upon, the techniques used for data processing, and the benefits offered by leveraging such approaches.
 

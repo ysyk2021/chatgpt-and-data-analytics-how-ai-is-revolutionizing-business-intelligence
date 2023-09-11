@@ -1,5 +1,4 @@
-Chapter 6: Advantages of Using ChatGPT in Data Analytics and Business Intelligence
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Incorporating ChatGPT, an advanced conversational AI model, into data analytics and business intelligence systems offers numerous advantages. This chapter explores the significant benefits and transformative potential of leveraging ChatGPT in the field of data analytics and business intelligence.
 

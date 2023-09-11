@@ -1,5 +1,4 @@
-Chapter 9: Evaluating ChatGPT's Performance and Effectiveness in Data Analytics and Business Intelligence
-=========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Evaluating the performance and effectiveness of ChatGPT is crucial to understanding its impact on data analytics and business intelligence. This chapter focuses on assessing various aspects of ChatGPT's performance to gauge its capabilities, limitations, and potential areas of improvement.
 

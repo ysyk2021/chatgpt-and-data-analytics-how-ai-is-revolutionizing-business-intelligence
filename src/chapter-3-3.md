@@ -1,5 +1,4 @@
-Chapter 7: Types of Chatbots Used in Data Analytics and Business Intelligence
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of chatbots used in data analytics and business intelligence. We will discuss the characteristics, functionalities, and benefits of each type, highlighting how they contribute to revolutionizing these domains.
 

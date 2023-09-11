@@ -1,5 +1,4 @@
-Chapter 1: What is Data Analytics and Business Intelligence?
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Data analytics and business intelligence play a crucial role in empowering organizations to make data-driven decisions and gain valuable insights from their vast amounts of data. This chapter provides an overview of what data analytics and business intelligence entail, their significance, and how they are revolutionizing the business landscape.
 

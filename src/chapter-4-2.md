@@ -1,5 +1,4 @@
-Chapter 8: The Features of ChatGPT
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, an advanced conversational AI model, offers a range of powerful features that make it well-suited for data analytics and business intelligence. This chapter explores the key features of ChatGPT and their significance in revolutionizing the field.
 

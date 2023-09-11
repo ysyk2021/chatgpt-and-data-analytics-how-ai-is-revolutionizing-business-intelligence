@@ -1,5 +1,4 @@
-Chapter 5: How ChatGPT Works in Data Analytics and Business Intelligence
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the inner workings of ChatGPT and explore how it revolutionizes data analytics and business intelligence. We will discuss the underlying technology, training process, and practical applications of ChatGPT in the field.
 

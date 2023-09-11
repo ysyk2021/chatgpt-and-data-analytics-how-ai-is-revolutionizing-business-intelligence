@@ -1,5 +1,4 @@
-Chapter 6: Planning and Designing ChatGPT for Data Analytics and Business Intelligence
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Incorporating ChatGPT, a cutting-edge conversational AI model, into data analytics and business intelligence systems can revolutionize the way organizations extract insights and make informed decisions. This chapter explores the essential aspects of planning and designing ChatGPT specifically for data analytics and business intelligence applications.
 

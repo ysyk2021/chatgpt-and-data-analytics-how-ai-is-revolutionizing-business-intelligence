@@ -1,5 +1,4 @@
-Chapter 3: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, short for Chat Generative Pre-trained Transformer, is an advanced language model that has revolutionized the field of conversational artificial intelligence. Developed by OpenAI, ChatGPT is built upon the foundation of the powerful GPT (Generative Pre-trained Transformer) model, specifically designed to generate human-like text responses in natural language conversations.
 
